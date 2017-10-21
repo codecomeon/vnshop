@@ -26,6 +26,15 @@ const proxyTable = config.dev.proxyTable
 const app = express()
 const compiler = webpack(webpackConfig)
 
+var goodsData=require('../mock/mock_goods.json');
+var router=express.Router();
+router.get('/goods',function (req,res) {
+  res.json(goodsData);
+});
+
+app.use(router);
+
+
 const devMiddleware = require('webpack-dev-middleware')(compiler, {
   publicPath: webpackConfig.output.publicPath,
   quiet: true
