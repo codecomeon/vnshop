@@ -1,5 +1,5 @@
-@import "style.css";
-@import "base.css";
-@import "checkout.css";
-@import "product.css";
-@import "login.css";
+@import 'base.css';
+@import 'product.css';
+@import 'checkout.css';
+@import 'login.css';
+@import 'style.css';

@@ -1,6 +1,6 @@
-# vnshop
+# client
 
-> A Vue.js project
+> vue node shopshop 
 
 ## Build Setup
 
