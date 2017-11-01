@@ -65,7 +65,7 @@
 
 
                 <dl class="col-links">
-                    <dt>vnshop</dt>
+                    <dt>服务</dt>
                     <dd>
                         <a href="article.php?id=12" target="_blank" title="预约亲临到店服务" rel="nofollow">预约亲临到店服务</a>
                     </dd>
@@ -95,7 +95,7 @@
 
 
                 <dl class="col-links">
-                    <dt>vnshop</dt>
+                    <dt>关注我们</dt>
                     <dd>
                         <a href="article.php?id=15" target="_blank" title="官方微信" rel="nofollow">官方微信</a>
                     </dd>
