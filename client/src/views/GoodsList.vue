@@ -1,14 +1,14 @@
 <template>
   <div>
     <nav-header/>
-    <nav-bread>商品列表</nav-bread>
+    <nav-bread>Goods List</nav-bread>
     <div class="accessory-result-page accessory-page">
         <div class="container">
             <div class="filter-nav">
                 <span class="sortby">Sort by:</span>
                 <a href="javascript:void(0)" class="default cur">Default</a>
                 <a href="javascript:void(0)" class="price" @click="sortGoods">price <svg class="icon icon-arrow-short"><use xlink:href="#icon-arrow-short"></use></svg></a>
-                <a href="javascript:void(0)" class="filterby stopPop">Sort by</a>
+                <a href="javascript:void(0)" class="filterby stopPop">Sort By</a>
             </div>
             <div class="accessory-result">
                 <!-- filter -->
