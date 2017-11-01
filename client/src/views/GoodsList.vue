@@ -116,8 +116,7 @@
         },
         created(){
             this.getGoodsList();
-        }
-        ,
+        },
         methods:{
             getGoodsList(flag){
                 let sort = this.sortFlag ? 1 : -1;
