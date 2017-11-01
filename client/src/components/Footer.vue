@@ -65,7 +65,7 @@
 
 
                 <dl class="col-links">
-                    <dt>服务</dt>
+                    <dt>服务查询</dt>
                     <dd>
                         <a href="article.php?id=12" target="_blank" title="预约亲临到店服务" rel="nofollow">预约亲临到店服务</a>
                     </dd>
